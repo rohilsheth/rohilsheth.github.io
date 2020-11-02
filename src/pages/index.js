@@ -9,11 +9,12 @@ export default function Home() {
   
   return (
     <Layout>
+      <title>Rohil Sheth - Home</title>
       <a href="https://www.twitter.com/roshe789" target="_blank" class="fa-twitter"><FaTwitter size={30}></FaTwitter></a>
       <a href="https://www.github.com/rohilsheth" target="_blank" class="fa-github"><FaGithub size={30}></FaGithub></a>
       <a href="https://www.linkedin.com/in/rohilsheth" target="_blank" class="fa-linkedin"><FaLinkedin size={30}></FaLinkedin></a>
       <a href="mailto:rohil@seas.upenn.edu" target="_blank" class='fa-envelope'><MdMail size={30}></MdMail></a>
-      <a href="https://rsheth.s3.amazonaws.com/resume-base_1.pdf" target="_blank" class='fa-file'><FaFileAlt size={30}></FaFileAlt></a>
+      <a href="https://rsheth.s3.amazonaws.com/resume-base.pdf" target="_blank" class='fa-file'><FaFileAlt size={30}></FaFileAlt></a>
 
       <h1>Hello! 👋</h1> 
       <br></br>
