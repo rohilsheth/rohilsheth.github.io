@@ -1,6 +1,7 @@
 img {
     border-radius: 15px;
     padding: 10px;
+    
 }
 /*
   Social media icons
@@ -11,7 +12,6 @@ img {
 
 a {
     text-decoration: none;
-    box-shadow: none;
 }
 .sharing-icons a {
     padding-right: 10px;
@@ -19,7 +19,7 @@ a {
   
   .fa-envelope {
     float: right;
-    text-decoration: none !important;
+    background-image: none;
     padding: 5px;
       -o-transition:.5s;
         -ms-transition:.5s;
@@ -29,12 +29,12 @@ a {
   }
   
   .fa-envelope:hover {
-    text-decoration: none !important;
+    background-image: none;
       color: #f39c12;
   }
   .fa-file {
     float: right;
-    text-decoration: none !important;
+    background-image: none;
     padding: 5px;
       -o-transition:.5s;
         -ms-transition:.5s;
@@ -44,14 +44,14 @@ a {
   }
   
   .fa-file:hover {
-    text-decoration: none !important;
+    background-image: none;
       color: #bd081c;
   }
 
   
   .fa-twitter {
     float: right;
-    text-decoration: none !important;
+    background-image: none;
     padding: 5px;
       -o-transition:.5s;
         -ms-transition:.5s;
@@ -61,7 +61,7 @@ a {
   }
   
   .fa-twitter:hover {
-    text-decoration: none !important;
+    background-image: none;
       color: #00aced;
   }
   
@@ -80,7 +80,7 @@ a {
   
   .fa-github {
     float: right;
-    text-decoration: none !important;
+    background-image: none;
 
     padding: 5px;
       -o-transition:.5s;
@@ -91,14 +91,14 @@ a {
   }
   
   .fa-github:hover {
-    text-decoration: none !important;
+    background-image: none;
 
       color: #343434;
   }
   
   .fa-linkedin {
     float: right;
-    text-decoration: none !important;
+    background-image: none;
 
     padding: 5px;
       -o-transition:.5s;
@@ -109,7 +109,7 @@ a {
   }
   
   .fa-linkedin:hover {
-    text-decoration: none !important;
+    background-image: none;
 
       color: #0073a4;
   }

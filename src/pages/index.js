@@ -16,21 +16,21 @@ export default function Home() {
       <a href="https://rsheth.s3.amazonaws.com/resume-base_1.pdf" target="_blank" class='fa-file'><FaFileAlt size={30}></FaFileAlt></a>
 
       <h1>Hello! 👋</h1> 
-      
+      <br></br>
       <p>
-       I'm <b>Rohil Sheth</b>, a student at the <a href="https://upenn.edu">University of Pennsylvania</a> studying <b>Systems Engineering</b> with a concentration in <b>Artificial Intelligence and Data Science</b>. Originally from central New Jersey, I'm now based in Philadelphia. 
+       I'm <b>Rohil Sheth</b>, a student at the <a href="https://upenn.edu">University of Pennsylvania</a> studying <b>Systems Engineering</b> with a concentration in <b>Artificial Intelligence 🤖 and Data Science 📈</b>. Originally from central New Jersey, I'm now based in Philadelphia 🏙. 
       </p>
       <img src="https://rsheth.s3.amazonaws.com/headshot.jpeg" width="30%" height="30%" align="right" alt="headshot"></img>
 
       <p>
        Outside of class, I'm currently involved with: 
        <ul>
-         <li><b>investing</b> in <b>early-stage startups</b> as a partner at the <a href="https://weissfund.weisstech.upenn.edu/">WeissFund</a></li> 
-         <li>leading <b>strategy consulting</b> engagements with social impact-focused businesses via <a href="https://180dc.org/branch/upenn/">180 Degrees Consulting</a></li>
-         <li> write and act (mostly funny) <b>comedy</b> with <a href="https://maskandwig.com">Mask and Wig</a></li>
-         <li>lead <b>analytics</b> for the nation's premier south asian a cappella group, <a href="https://pennmasala.com">Penn Masala</a></li>
-         <li> <b>dance and twirl dandiya</b> with <a href="https://www.facebook.com/pennraas/">Penn Raas</a></li>
-         <li>running a weekly <b>venture capital</b> newsletter, <a href="https://thisweekinvc.me">This Week in VC</a></li>
+         <li><b>💵 investing</b> in <b>early-stage startups</b> as a partner at the <a href="https://weissfund.weisstech.upenn.edu/">WeissFund</a></li> 
+         <li>📊 leading <b>strategy consulting</b> engagements with social impact-focused businesses via <a href="https://180dc.org/branch/upenn/">180 Degrees Consulting</a></li>
+         <li>🎭 write and act (mostly funny) <b>comedy</b> with <a href="https://maskandwig.com">Mask and Wig</a></li>
+         <li>👨🏽‍💻lead <b>analytics</b> for <a href="https://pennmasala.com">Penn Masala</a></li>
+         <li>🕺🏽 <b>dance and twirl dandiya</b> with <a href="https://www.facebook.com/pennraas/">Penn Raas</a></li>
+         <li>📰 running a weekly <b>venture capital</b> newsletter, <a href="https://thisweekinvc.me">This Week in VC</a></li>
        </ul>
       </p>
 
