@@ -1,6 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import "../styles/image.css"
+import MyForm from "../utils/myform" 
 import {FaLinkedin, FaTwitter, FaGithub, FaFileAlt} from 'react-icons/fa'
 
 
@@ -21,12 +22,12 @@ export default function Home() {
       <p>
        I'm <b>Rohil Sheth</b>, a student at the <a href="https://upenn.edu">University of Pennsylvania</a> studying <b>Systems Engineering</b> with a concentration in <b>Artificial Intelligence 🤖 and Data Science 📈</b>. Originally from central New Jersey, I'm now based in Philadelphia 🏙. 
       </p>
-      <img src="https://rsheth.s3.amazonaws.com/headshot.jpeg" width="30%" height="30%" align="right" alt="headshot"></img>
+      <img src="https://rsheth.s3.amazonaws.com/headshot.jpeg" width="29%" height="29%" align="right" alt="headshot"></img>
 
       <p>
        Outside of class, I'm currently involved with: 
        <ul>
-         <li><b>💵 investing</b> in <b>early-stage startups</b> as a partner at the <a href="https://weissfund.weisstech.upenn.edu/">WeissFund</a></li> 
+         <li><b>💵 investing</b> in <b>early-stage startups</b> as a partner with <a href="https://weissfund.weisstech.upenn.edu/">WeissFund</a></li> 
          <li>📊 leading <b>strategy consulting</b> engagements with social impact-focused businesses via <a href="https://180dc.org/branch/upenn/">180 Degrees Consulting</a></li>
          <li>🎭 write and act (mostly funny) <b>comedy</b> with <a href="https://maskandwig.com">Mask and Wig</a></li>
          <li>👨🏽‍💻lead <b>analytics</b> for <a href="https://pennmasala.com">Penn Masala</a></li>
@@ -45,6 +46,8 @@ export default function Home() {
       <p>
         I've also explored <b>public policy</b> as an intern for <a href="https://www.andrewzwicker.com/">Assemblyman Andrew Zwicker</a> and created a <b>computer science education organization</b> that taught computer science to over <b>80 elementary school students</b>. 
       </p>
+      <hr></hr>
+      Let's build something cool together. Feel free to reach out to me via email: rohil at seas dot upenn dot edu.
     </Layout>
   );
 }
