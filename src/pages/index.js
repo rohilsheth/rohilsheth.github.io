@@ -37,11 +37,11 @@ export default function Home() {
       </p>
 
       <p>
-        I'm really interested in utilizing my data science and analytics capabilities to drive decision-making in areas like venture capital, product management, equity/option trading, investment banking, and <b>especially climate change</b>. 
+        I'm really interested in utilizing my data science and analytics capabilities to drive decision-making in areas like management consulting, venture capital, product management, and <b>especially climate change</b>. 
       </p>
       <hr></hr>
       <p>
-        Over the last few years, I've gained experience as an <b>fintech investment banking</b> summer analyst at <a href="https://rblt.com">Rosenblatt Securities</a>, a <b>data analytics/trading</b> intern at <a href="https://likefolio.com">LikeFolio</a>, a scholar at the <a href="https://soe.rutgers.edu/gset">New Jersey Governor's School for Engineering and Technology</a>, and as a <b>research</b> intern with <a href="https://vizlab.rutgers.edu/">Visualization Lab</a> at Rutgers. 
+        Over the last few years, I've gained experience as a <b>product and data science</b> intern at Comcast, a <b>fintech investment banking</b> summer analyst at <a href="https://rblt.com">Rosenblatt Securities</a>, a <b>data analytics/trading</b> intern at <a href="https://likefolio.com">LikeFolio</a>, a scholar at the <a href="https://soe.rutgers.edu/gset">New Jersey Governor's School for Engineering and Technology</a>, and as a <b>research</b> intern with <a href="https://vizlab.rutgers.edu/">Visualization Lab</a> at Rutgers. 
       </p>
       <p>
         I've also explored <b>public policy</b> as an intern for <a href="https://www.andrewzwicker.com/">Assemblyman Andrew Zwicker</a> and created a <b>computer science education organization</b> that taught computer science to over <b>80 elementary school students</b>. 
