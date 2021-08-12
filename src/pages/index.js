@@ -28,11 +28,7 @@ export default function Home() {
        Outside of class, I'm currently involved with: 
        <ul>
          <li><b>💵 investing</b> in <b>early-stage startups</b> as a partner with <a href="https://weissfund.weisstech.upenn.edu/">WeissFund</a></li> 
-         <li>📊 leading <b>strategy consulting</b> engagements with social impact-focused businesses via <a href="https://180dc.org/branch/upenn/">180 Degrees Consulting</a></li>
-         <li>🎭 write and act (mostly funny) <b>comedy</b> with <a href="https://maskandwig.com">Mask and Wig</a></li>
-         <li>👨🏽‍💻 lead <b>analytics</b> for <a href="https://pennmasala.com">Penn Masala</a></li>
-         <li>🕺🏽 <b>dance and twirl dandiya</b> with <a href="https://www.facebook.com/pennraas/">Penn Raas</a></li>
-         <li>📰 running a weekly <b>venture capital</b> newsletter, <a href="https://thisweekinvc.me">This Week in VC</a></li>
+         
        </ul>
       </p>
 
