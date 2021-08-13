@@ -32,7 +32,7 @@ export default function Home() {
          <li>🎭 write and act (mostly funny) <b>comedy</b> with <a href="https://maskandwig.com">Mask and Wig</a></li>
          <li>👨🏽‍💻 lead <b>analytics</b> for <a href="https://pennmasala.com">Penn Masala</a></li>
          <li>🕺🏽 <b>dance and twirl dandiya</b> with <a href="https://www.facebook.com/pennraas/">Penn Raas</a></li>
-         <li>📰 running a weekly <b>venture capital</b> newsletter, <a href="https://thisweekinvc.me">This Week in VC</a></li>
+         <li>📰 running a weekly <b>venture capital</b> newsletter, <a href="https://thisweekinvc.rohilsheth.com">This Week in VC</a></li>
          
        </ul>
       </p>
