@@ -20,7 +20,7 @@ export default function Home() {
       <h1>Hello! 👋</h1> 
       <br></br>
       <p>
-       I'm <b>Rohil Sheth</b>, a student at the <a href="https://upenn.edu">University of Pennsylvania</a> studying <b>Systems Engineering</b> with a concentration in <b>Artificial Intelligence 🤖 and Data Science 📈</b>. Originally from central New Jersey, I'm now based in Philadelphia 🏙. 
+       I'm <b>Rohil Sheth</b>, a student at the <a href="https://upenn.edu">University of Pennsylvania</a> pursuing a Bachelor's degree in <b>Systems Engineering</b> and a Master's degree in  <b>Data Science 🤖</b>. Originally from central New Jersey, I'm now based in Philadelphia 🏙. 
       </p>
       <img src="https://rsheth.s3.amazonaws.com/headshot.jpeg" width="29%" height="29%" align="right" alt="headshot"></img>
 
