@@ -26,8 +26,6 @@ export default function Home() {
       <p>
        Originally from central New Jersey, I'm now based in Philadelphia 🏙
       </p>
-      <img src="https://rsheth.s3.amazonaws.com/headshot.jpeg" width="29%" height="29%" align="right" alt="headshot"></img>
-
       <p>
        Outside of class, I'm involved in: 
        <ul>
@@ -55,7 +53,7 @@ export default function Home() {
         I've also explored <b>public policy</b> as an intern for <a href="https://www.andrewzwicker.com/">Assemblyman Andrew Zwicker</a> and created a <b>computer science education organization</b> that taught computer science to over <b>80 elementary school students</b>. 
       </p>
       <hr></hr>
-      Let's build something cool together. Feel free to reach out to me via email: rohil at seas dot upenn dot edu.
+      Let's build something cool together. Feel free to reach out to me via email: rohil at seas.upenn.edu
     </Layout>
   );
 }
