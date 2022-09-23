@@ -21,17 +21,17 @@ export default function Home() {
       <h1>Hello! 👋</h1> 
       <br></br>
       <p>
-       I'm <b>Rohil Sheth</b> (rohilsh.eth), a student at the <a href="https://upenn.edu">University of Pennsylvania</a> pursuing a Bachelor's degree in <b>Systems Engineering</b> ⚙️ and a Master's degree in  <b>Data Science 🤖</b>
+       I'm <b>Rohil Sheth</b> (rohilsh.eth), a senior at the <a href="https://upenn.edu">University of Pennsylvania</a> pursuing a Bachelor's degree in <b>Systems Engineering</b> ⚙️, a Master's degree in  <b>Data Science 🤖</b>, and a minor in Political Science 🇺🇸
       </p>
       <p>
        Originally from central New Jersey, I'm now based in Philadelphia 🏙
       </p>
+      <img src="https://rsheth.s3.amazonaws.com/headshot.jpg" width="40%" height="40%" align="right" alt="headshot"></img>
       <p>
        Outside of class, I'm involved in: 
        <ul>
-         <li><b>💵 investing</b> in <b>early-stage startups</b> as a partner with <a href="https://weissfund.weisstech.upenn.edu/">WeissFund</a></li> 
+         <li><b>💵 investing</b> in <b>early-stage startups</b> with the <a href ="https://venturelab.upenn.edu/innovation-fund">Penn Wharton Innovation Fund</a>, previously with the <a href="https://weissfund.weisstech.upenn.edu/">WeissFund</a></li> 
          <li>📊 directing <b>strategy consulting</b> engagements with social impact-focused businesses via <a href="https://180dc.org/branch/upenn/">180 Degrees Consulting</a></li>
-         <li>🧪 <b>conducting ML research</b> with the <a href="https://analytics.wharton.upenn.edu/esg-analytics-lab/">ESG Analytics Lab</a> at the Wharton School </li>
          <li>🎭 writing and acting (mostly funny) <b>comedy</b> with <a href="https://maskandwig.com">Mask and Wig</a></li>
          <li>🕺🏽 <b>dancing and twirling dandiya</b> with <a href="https://www.facebook.com/pennraas/">Penn Raas</a></li>
          <li>📰 running a weekly <b>venture capital</b> newsletter, <a href="https://thisweekinvc.rohilsheth.com">This Week in VC</a></li>
@@ -44,16 +44,18 @@ export default function Home() {
       </p>
       <hr></hr>
       <p>
-        I'll be a Business Analyst Intern at <a href="https://mckinsey.com"> McKinsey &amp; Company </a> in San Francisco this upcoming summer. 
+        I'll be a Business Analyst at <a href="https://mckinsey.com"> McKinsey &amp; Company </a> after graduation. 
       </p>
       <p>
-      Over the last few years, I've gained experience as a <b>product and data science</b> intern at Comcast, a <b>fintech investment banking</b> summer analyst at <a href="https://rblt.com">Rosenblatt Securities</a>, a <b>data analytics/trading</b> intern at <a href="https://likefolio.com">LikeFolio</a>, a scholar at the <a href="https://soe.rutgers.edu/gset">New Jersey Governor's School for Engineering and Technology</a>, and as a <b>research</b> intern with <a href="https://vizlab.rutgers.edu/">Visualization Lab</a> at Rutgers. 
+      Over the last few years, I've gained experience as a Business Analyst intern at <a href="https://mckinsey.com"> McKinsey &amp; Company </a>, a <b>product and data science</b> intern at Comcast, a <b>fintech investment banking</b> summer analyst at <a href="https://rblt.com">Rosenblatt Securities</a>, a <b>data analytics/trading</b> intern at <a href="https://likefolio.com">LikeFolio</a>, a scholar at the <a href="https://soe.rutgers.edu/gset">New Jersey Governor's School for Engineering and Technology</a>, and as a <b>research</b> intern with <a href="https://vizlab.rutgers.edu/">Visualization Lab</a> at Rutgers. 
       </p>
       <p>
         I've also explored <b>public policy</b> as an intern for <a href="https://www.andrewzwicker.com/">Assemblyman Andrew Zwicker</a> and created a <b>computer science education organization</b> that taught computer science to over <b>80 elementary school students</b>. 
       </p>
       <hr></hr>
-      Let's build something cool together. Feel free to reach out to me via email: rohil at seas.upenn.edu
+      Let's build something cool together. 
+      
+      Feel free to reach out to me via email: rohil at seas.upenn.edu
     </Layout>
   );
 }
