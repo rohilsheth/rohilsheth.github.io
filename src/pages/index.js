@@ -34,13 +34,13 @@ export default function Home() {
          <li>📊 directing <b>strategy consulting</b> engagements with social impact-focused businesses via <a href="https://180dc.org/branch/upenn/">180 Degrees Consulting</a></li>
          <li>🎭 writing and acting (mostly funny) <b>comedy</b> with <a href="https://maskandwig.com">Mask and Wig</a></li>
          <li>🕺🏽 <b>dancing and twirling dandiya</b> with <a href="https://www.facebook.com/pennraas/">Penn Raas</a></li>
-         <li>📰 running a weekly <b>venture capital</b> newsletter, <a href="https://thisweekinvc.rohilsheth.com">This Week in VC</a></li>
+         <li>📰 running a weekly <b>venture capital</b> newsletter, <a href="https://thisweekinvc.rohilsheth.com">This Week in VC</a>, and writing blog <a href="https://rohil.substack.com/p/reflecting-on-the-ipcc-report-and">posts</a></li>
          
        </ul>
       </p>
 
       <p>
-        I'm really interested in utilizing my data science and analytics capabilities to drive decision-making in areas like management consulting, venture capital, product management, and <b>especially climate change</b>. 
+        I'm really interested in utilizing my data science and analytics capabilities to drive decision-making, <b>especially in climate change</b>. 
       </p>
       <hr></hr>
       <p>
