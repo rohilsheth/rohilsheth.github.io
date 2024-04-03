@@ -20,9 +20,6 @@ export default function HTML(props) {
         <div
           key={`body`}
           id="___gatsby"
-          dangerouslySetInnerHTML={{ __html: `
-            console.log('Hello ');
-            `, }}
         />
         {props.postBodyComponents}
       </body>
