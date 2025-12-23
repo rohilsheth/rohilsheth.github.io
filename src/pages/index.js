@@ -20,7 +20,7 @@ export default function Home() {
       <h1>Hello! 👋</h1> 
       <br></br>
       <p>
-      I'm <b>Rohil Sheth</b>, a Business Analyst at <a target="_blank" rel="noopener noreferrer" href="https://mckinsey.com">McKinsey & Company</a> with most of my client work focused in travel, life sciences, and B2B services.
+      I'm <b>Rohil Sheth</b>, a Senior Business Analyst & transitioning Engagement Manager at <a target="_blank" rel="noopener noreferrer" href="https://mckinsey.com">McKinsey & Company</a> with most of my client work focused in operations, travel, life sciences, and diligences with private equity clients.
       </p>
       <p>
        Originally from central New Jersey, I'm now based in NYC 🏙
